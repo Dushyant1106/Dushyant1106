@@ -2,7 +2,7 @@
 
 ## Welcome to my GitHub!
 
-### Building what's next. Breaking what's boring.
+### Building what's next. Reimagining the familiar.
 
 #### I'm Dushyant P, passionate about exploring new ideas, building creative tech, and sharing the journey with amazing peers like you.
 
